@@ -16,8 +16,8 @@ Travel and Distance: Analysis of the role of business travel frequency and dista
 
 Technologies Used:
 Power BI: For creating interactive visualizations and dashboards.
-
-
 Excel: For initial data exploration and cleansing.
+
 Outcome:
-This dashboard provides HR teams and management with actionable insights to reduce employee turnover by identifying key risk factors, allowing them to implement targeted interventions.
+This dashboard provides HR teams and management with actionable insights to reduce employee turnover 
+by identifying key risk factors, allowing them to implement targeted interventions.
